@@ -1,8 +1,8 @@
 {
-  "name": "roman-portfolio",
+  "name": "portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://jiupaladin.github.io/roman-portfolio",
+  "homepage": "https://jiupaladin.github.io/portfolio",
   "dependencies": {
     "@emotion/react": "^11.11.4",
     "@emotion/styled": "^11.11.5",
